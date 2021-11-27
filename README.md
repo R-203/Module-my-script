@@ -5,4 +5,8 @@
 
 *how to use my script !:wink:*
 ###### Usage?
-bash play.sh
+$ git clone https://github.com/R-203/Module-my-script
+
+$ cd Module-my-script
+
+$ bash play.sh
