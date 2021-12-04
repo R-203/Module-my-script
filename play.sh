@@ -30,7 +30,7 @@ echo
 echo -e $M"Tunggu Sampai Proses Selesai Sabar Kawan...!"
 echo -e $H"Orang Sabar Disayang Janda  Xixixi:v"
 echo
-gem install lolcat -y
+gem install lolcat 
 clear
 echo
 echo -e $M"Tunggu Sampai Proses Selesai Sabar Kawan...!"
